@@ -27,7 +27,7 @@ ____
 ## Главный герой
 ![](https://github.com/12qwer123/game/blob/main/v.png)
 
-![](https://github.com/12qwer123/game/blob/main/v2.png)- возведение вокруг себя колючек.
+![](https://github.com/12qwer123/game/blob/main/v2.png)- возведение вокруг себя шипов.
 
 ![](https://github.com/12qwer123/game/blob/main/v3.png)- удар топором.
 
