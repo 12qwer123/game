@@ -25,25 +25,27 @@ ____
 ## Геймплей
 Игра будет поделена на уровни (~15-20) через определенное количество уровней локации будут меняться. Враги будут отличаться способом и скоростью передвижения, способом нанесения урона и количеством жизней. Главный герой имеет 3 жизни. В локациях также будут встречаться опасные объекты, которые могут навредить, например шипы. 
 ## Главный герой
-![](https://github.com/12qwer123/game/blob/main/v.png)
+Главный герой имеет способности, которые после использования некоторое время перезаряжаются.
 
-![](https://github.com/12qwer123/game/blob/main/v2.png)- возведение вокруг себя шипов.
+![](https://github.com/12qwer123/game/blob/main/v.png) - Главный герой (викинг).
 
-![](https://github.com/12qwer123/game/blob/main/v3.png)- удар топором.
+![](https://github.com/12qwer123/game/blob/main/v2.png) - возведение вокруг себя шипов.
 
-![](https://github.com/12qwer123/game/blob/main/v4.png)- стрельба льдом.
+![](https://github.com/12qwer123/game/blob/main/v3.png) - удар топором.
+
+![](https://github.com/12qwer123/game/blob/main/v4.png) - стрельба льдом.
 ## Враги
-![](https://github.com/12qwer123/game/blob/main/h.png)- Скелет. Самый слабый противник. Уязвим ко всем атакам.
+![](https://github.com/12qwer123/game/blob/main/h.png) - Скелет. Самый слабый противник. Уязвим ко всем атакам.
 
-![](https://github.com/12qwer123/game/blob/main/s.png)- Темный скелет в броне. Имеет защиту от способностей.
+![](https://github.com/12qwer123/game/blob/main/s.png) - Темный скелет в броне. Имеет защиту от способностей.
 
-![](https://github.com/12qwer123/game/blob/main/m.png)- Мутировавшая летучая мышь. Умеет летать и стрелять.
+![](https://github.com/12qwer123/game/blob/main/m.png) - Мутировавшая летучая мышь. Умеет летать и стрелять.
 
-![](https://github.com/12qwer123/game/blob/main/g.png)- Гоблин. Быстро передвигается и наносит удары.
+![](https://github.com/12qwer123/game/blob/main/g.png) - Гоблин. Быстро передвигается и наносит удары.
 
-![](https://github.com/12qwer123/game/blob/main/r.png)- Гриб. Умеет стрелять.
+![](https://github.com/12qwer123/game/blob/main/r.png) - Гриб. Умеет стрелять.
 
-![](https://github.com/12qwer123/game/blob/main/mm.png)- Темный маг. Босс.
+![](https://github.com/12qwer123/game/blob/main/mm.png) - Темный маг. Босс.
 ## Уровни
 1-3-обучение
 
